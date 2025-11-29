@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main(){
+int array[10] = {1,2,3,4,5,6,7,8,9,10};
+int size = sizeof(array) / sizeof(int);
+cout << size  << sizeof(array) << endl;
+return 0;
+}

@@ -1,0 +1,10 @@
+#include <iostream>
+template <typename T, typename U>
+auto max(T x, U y) -> decltype((x > y) ? x : y) {
+    return (x > y) ? x : y;
+}
+
+int main() {
+   std::cout << max(1, 2.1) << std::endl;
+   return 0;
+}

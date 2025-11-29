@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/RefactoringsMru/RenameRefactoring/DoQuickRename/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1724e784-8822-4d74-a872-e08bb13aad1e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wtKvtyp7OqhMpZT4TN9fCta70s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.2darray.cpp.executor": "Run",
+    "C/C++ File.abcd.cpp.executor": "Run",
+    "C/C++ File.array_size.cpp.executor": "Run",
+    "C/C++ File.calculator.cpp.executor": "Run",
+    "C/C++ File.calculator2.cpp.executor": "Run",
+    "C/C++ File.charA.cpp.executor": "Run",
+    "C/C++ File.colortxt.cpp.executor": "Run",
+    "C/C++ File.constructer.cpp.executor": "Run",
+    "C/C++ File.creditcardnovalid.cpp.executor": "Run",
+    "C/C++ File.curruncy.cpp.executor": "Run",
+    "C/C++ File.da.cpp.executor": "Run",
+    "C/C++ File.dynamicarrays.cpp.executor": "Run",
+    "C/C++ File.encription.cpp.executor": "Run",
+    "C/C++ File.hash_map.cpp.executor": "Run",
+    "C/C++ File.hash_map_2.cpp.executor": "Run",
+    "C/C++ File.hash_map_3.cpp.executor": "Run",
+    "C/C++ File.largestnum.cpp.executor": "Run",
+    "C/C++ File.new.cpp.executor": "Run",
+    "C/C++ File.newfail.cpp.executor": "Run",
+    "C/C++ File.point1.cpp.executor": "Debug",
+    "C/C++ File.refermces.cpp.executor": "Run",
+    "C/C++ File.sample_headerfile_test.cpp.executor": "Run",
+    "C/C++ File.squrt_test.cpp.executor": "Run",
+    "C/C++ File.to-do_list.cpp.executor": "Run",
+    "C/C++ File.vowels_test.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/dakshbeniwal/basiccpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.hash_map_3.cpp">
+    <configuration name="array_size.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="array_size.cpp" CONFIG_NAME="array_size.cpp">
+      <option name="sourceFile" value="$PROJECT_DIR$/array_size.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="encription.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="encription.cpp" CONFIG_NAME="encription.cpp">
+      <option name="sourceFile" value="encription.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_map_2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="hash_map_2.cpp" CONFIG_NAME="hash_map_2.cpp">
+      <option name="sourceFile" value="basiccpp/hash_map_2.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_map_3.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="hash_map_3.cpp" CONFIG_NAME="hash_map_3.cpp">
+      <option name="sourceFile" value="basiccpp/hash_map_3.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_map.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="hash_map.cpp" CONFIG_NAME="hash_map.cpp">
+      <option name="sourceFile" value="basiccpp/hash_map.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="squrt_test.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="squrt_test.cpp" CONFIG_NAME="squrt_test.cpp">
+      <option name="sourceFile" value="basiccpp/squrt_test.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.hash_map_3.cpp" />
+        <item itemvalue="C/C++ File.hash_map_2.cpp" />
+        <item itemvalue="C/C++ File.hash_map.cpp" />
+        <item itemvalue="C/C++ File.squrt_test.cpp" />
+        <item itemvalue="C/C++ File.encription.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1724e784-8822-4d74-a872-e08bb13aad1e" name="Changes" comment="" />
+      <created>1746855663672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746855663672</updated>
+      <workItem from="1746855664898" duration="396000" />
+      <workItem from="1746856110314" duration="1000" />
+      <workItem from="1746856193768" duration="126000" />
+      <workItem from="1746856465494" duration="319000" />
+      <workItem from="1746858268551" duration="29000" />
+      <workItem from="1746879240327" duration="74000" />
+      <workItem from="1746884101114" duration="1965000" />
+      <workItem from="1746940958957" duration="26000" />
+      <workItem from="1746943871954" duration="1676000" />
+      <workItem from="1746966045390" duration="27000" />
+      <workItem from="1747059845035" duration="2266000" />
+      <workItem from="1747476996438" duration="2154000" />
+      <workItem from="1747915881415" duration="8000" />
+      <workItem from="1748611735795" duration="1377000" />
+      <workItem from="1748757851884" duration="10000" />
+      <workItem from="1748793949506" duration="607000" />
+      <workItem from="1749017356185" duration="3446000" />
+      <workItem from="1749039628483" duration="1631000" />
+      <workItem from="1749103060787" duration="13000" />
+      <workItem from="1749295449359" duration="114000" />
+      <workItem from="1749798231748" duration="326000" />
+      <workItem from="1749798572213" duration="639000" />
+      <workItem from="1750227573224" duration="3003000" />
+      <workItem from="1750426783230" duration="6049000" />
+      <workItem from="1750487492901" duration="3209000" />
+      <workItem from="1750574579160" duration="2762000" />
+      <workItem from="1750763282354" duration="1652000" />
+      <workItem from="1750764947339" duration="14000" />
+      <workItem from="1751003560295" duration="606000" />
+      <workItem from="1751381984993" duration="37000" />
+      <workItem from="1751642383335" duration="4490000" />
+      <workItem from="1751783370463" duration="2138000" />
+      <workItem from="1751812240521" duration="8411000" />
+      <workItem from="1751897483443" duration="6133000" />
+      <workItem from="1752144571178" duration="1712000" />
+      <workItem from="1752152794312" duration="51000" />
+      <workItem from="1752233105139" duration="8926000" />
+      <workItem from="1752302505454" duration="1210000" />
+      <workItem from="1752327281221" duration="6430000" />
+      <workItem from="1752379335007" duration="2043000" />
+      <workItem from="1752382554590" duration="315000" />
+      <workItem from="1752489865764" duration="2122000" />
+      <workItem from="1752493842529" duration="2590000" />
+      <workItem from="1752501364921" duration="9000" />
+      <workItem from="1752578985362" duration="3000" />
+      <workItem from="1752579793734" duration="662000" />
+      <workItem from="1752582255896" duration="2746000" />
+      <workItem from="1752669080804" duration="7000" />
+      <workItem from="1752669923187" duration="835000" />
+      <workItem from="1752674109100" duration="97000" />
+      <workItem from="1753101614615" duration="598000" />
+      <workItem from="1753201775772" duration="40000" />
+      <workItem from="1753285557891" duration="121000" />
+      <workItem from="1753541236362" duration="341000" />
+      <workItem from="1753541691130" duration="681000" />
+      <workItem from="1754208544823" duration="55000" />
+      <workItem from="1754229742142" duration="6000" />
+      <workItem from="1754483369071" duration="833000" />
+      <workItem from="1754494232651" duration="11000" />
+      <workItem from="1754752020986" duration="6393000" />
+      <workItem from="1754800319119" duration="288000" />
+      <workItem from="1754806598346" duration="4625000" />
+      <workItem from="1754918281742" duration="68000" />
+      <workItem from="1755408435735" duration="35000" />
+      <workItem from="1755408500751" duration="8000" />
+      <workItem from="1755445169872" duration="73000" />
+      <workItem from="1756213831899" duration="323000" />
+      <workItem from="1756217408849" duration="6000" />
+      <workItem from="1757596718468" duration="1000000" />
+      <workItem from="1757599634222" duration="232000" />
+      <workItem from="1758018740421" duration="21000" />
+      <workItem from="1764172847007" duration="4004000" />
+      <workItem from="1764258946367" duration="2239000" />
+      <workItem from="1764343032454" duration="2280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
