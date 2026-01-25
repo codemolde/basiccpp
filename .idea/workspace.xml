@@ -19,8 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1724e784-8822-4d74-a872-e08bb13aad1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basiccpp/templates.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basiccpp/sync_async.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,54 +61,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.2darray.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.abcd.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.array_size.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.calculator.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.calculator2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.charA.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.colortxt.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.constructer.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.creditcardnovalid.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.curruncy.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.da.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.dynamicarrays.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.encription.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.hash_map.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.hash_map_2.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.hash_map_3.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.largestnum.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.new.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.newfail.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.point1.cpp.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.refermces.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.sample_headerfile_test.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.squrt_test.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.templates.cpp.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.to-do_list.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.vowels_test.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dakshbeniwal/codemolde/basiccpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.2darray.cpp.executor": "Run",
+    "C/C++ File.abcd.cpp.executor": "Run",
+    "C/C++ File.array_size.cpp.executor": "Run",
+    "C/C++ File.calculator.cpp.executor": "Run",
+    "C/C++ File.calculator2.cpp.executor": "Run",
+    "C/C++ File.charA.cpp.executor": "Run",
+    "C/C++ File.colortxt.cpp.executor": "Run",
+    "C/C++ File.constructer.cpp.executor": "Run",
+    "C/C++ File.creditcardnovalid.cpp.executor": "Run",
+    "C/C++ File.curruncy.cpp.executor": "Run",
+    "C/C++ File.da.cpp.executor": "Run",
+    "C/C++ File.dynamicarrays.cpp.executor": "Run",
+    "C/C++ File.encription.cpp.executor": "Run",
+    "C/C++ File.hash_map.cpp.executor": "Run",
+    "C/C++ File.hash_map_2.cpp.executor": "Run",
+    "C/C++ File.hash_map_3.cpp.executor": "Run",
+    "C/C++ File.largestnum.cpp.executor": "Run",
+    "C/C++ File.new.cpp.executor": "Run",
+    "C/C++ File.newfail.cpp.executor": "Run",
+    "C/C++ File.point1.cpp.executor": "Debug",
+    "C/C++ File.refermces.cpp.executor": "Run",
+    "C/C++ File.sample_headerfile_test.cpp.executor": "Run",
+    "C/C++ File.squrt_test.cpp.executor": "Run",
+    "C/C++ File.sync_async.cpp.executor": "Run",
+    "C/C++ File.templates.cpp.executor": "Debug",
+    "C/C++ File.to-do_list.cpp.executor": "Run",
+    "C/C++ File.vowels_test.cpp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dakshbeniwal/codemolde/basiccpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.templates.cpp">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.sync_async.cpp">
     <configuration name="array_size.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="array_size.cpp" CONFIG_NAME="array_size.cpp">
       <option name="sourceFile" value="$PROJECT_DIR$/array_size.cpp" />
       <method v="2">
@@ -134,8 +134,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="squrt_test.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="squrt_test.cpp" CONFIG_NAME="squrt_test.cpp">
-      <option name="sourceFile" value="basiccpp/squrt_test.cpp" />
+    <configuration name="sync_async.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="basiccpp" TARGET_NAME="sync_async.cpp" CONFIG_NAME="sync_async.cpp">
+      <option name="sourceFile" value="basiccpp/sync_async.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.sync_async.cpp" />
         <item itemvalue="C/C++ File.templates.cpp" />
         <item itemvalue="C/C++ File.hash_map_3.cpp" />
         <item itemvalue="C/C++ File.hash_map_2.cpp" />
         <item itemvalue="C/C++ File.hash_map.cpp" />
-        <item itemvalue="C/C++ File.squrt_test.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +241,7 @@
       <workItem from="1766246950573" duration="1075000" />
       <workItem from="1766248323066" duration="184000" />
       <workItem from="1766304786200" duration="201000" />
+      <workItem from="1769343485379" duration="3509000" />
     </task>
     <servers />
   </component>
