@@ -19,10 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1724e784-8822-4d74-a872-e08bb13aad1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basiccpp/mutex.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basiccpp/basics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/basiccpp/basics.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basiccpp/to-do_list" beforeDir="false" afterPath="$PROJECT_DIR$/basiccpp/to-do_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memory_arithmetics" beforeDir="false" afterPath="$PROJECT_DIR$/memory_arithmetics" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,7 @@
     &quot;C/C++ File.hash_map_2.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.hash_map_3.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.largestnum.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.memory_arithmetics.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.mutex.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.new.cpp.executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.newfail.cpp.executor&quot;: &quot;Run&quot;,
@@ -253,6 +253,10 @@
       <workItem from="1770622254962" duration="1491000" />
       <workItem from="1770637907726" duration="672000" />
       <workItem from="1771778139356" duration="55000" />
+      <workItem from="1773378905691" duration="199000" />
+      <workItem from="1773379118903" duration="435000" />
+      <workItem from="1773505485541" duration="3000" />
+      <workItem from="1773505715874" duration="182000" />
     </task>
     <servers />
   </component>
